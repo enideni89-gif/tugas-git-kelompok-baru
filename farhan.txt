@@ -1,0 +1,4 @@
+Tugas Git Kelompok
+
+Nama Anggota: Farhan
+Pekerjaan: Membuat branch dan melakukan commit.

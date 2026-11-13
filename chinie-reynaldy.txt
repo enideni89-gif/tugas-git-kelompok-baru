@@ -1,0 +1,5 @@
+Tugas Git Kelompok
+
+Nama Anggota: Chinie Reynaldy
+NIM: 701250083
+Pekerjaan: Membuat branch dan melakukan commit.
